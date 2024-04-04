@@ -18,4 +18,14 @@ implementation 'com.google.androidgms:play-services-maps:18.2.0'
     android:value="${MAPS_API_KEY}" />
 ```
 
-3.
+3. In the "activity_main.xml" we shall we using the "fragment" widget:
+```XML
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapsActivity" />
+```
