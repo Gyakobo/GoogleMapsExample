@@ -69,3 +69,11 @@ AGPL is a modified version of the GPL designed to close a potential loophole in 
 
 3. **Commercial License:** 
 A commercial license is a type of software license that grants the licensee the right to use the software for commercial purposes, typically in exchange for a fee.
+
+## Sprint
+**04/12/23**
+* Learn React-Native, TypeScript, and NodeJS 
+
+
+
+
