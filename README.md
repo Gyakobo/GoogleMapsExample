@@ -32,7 +32,7 @@ implementation 'com.google.androidgms:play-services-maps:18.2.0'
 
 ## Important client-side forms and other prerequisites
 1. **Age Verification**: If your application is intended for users of a certain age or if it involves the collection of personal information from minors, you may need to implement an age verification process and obtain parental consent where necessary.
-    * **COPPA:** COPPA stands for the Children's Online Privacy Protection Act.
+    * **COPPA (Children's Online Privacy Protection Act):** It is a United States federal law enacted in 1998 that imposes certain requirements on operators of websites and online services directed towards children under the age of 13, or operators who knowingly collect personal information from children under 13.
         * Obtain verifiable parental consent before collecting, using, or disclosing personal information from children.
         * Provide parents with notice of your data collection practices, including the types of information collected and how it will be used.
         * Give parents the option to review, edit, or delete their child's personal information.
