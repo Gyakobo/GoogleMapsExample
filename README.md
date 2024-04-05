@@ -40,6 +40,7 @@ implementation 'com.google.androidgms:play-services-maps:18.2.0'
         * Not condition a child's participation in an activity on the disclosure of more personal information than is reasonably necessary to participate in that activity.
         * Maintain the confidentiality, security, and integrity of personal information collected from children.
     > *Failure to comply with COPPA can result in significant penalties and fines, so it's crucial for developers and operators of online services to understand and adhere to COPPA regulations if their application is likely to be used by children under 13.*
+    [wiki](https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act)
 
 1. **Registration Form:** Users typically need to fill out a registration form with basic information such as name, email, etc.
 1. **Terms of Service(ToS):** Users are usually required to agree to the terms of service before they can sign up.
