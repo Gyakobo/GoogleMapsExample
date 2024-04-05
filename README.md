@@ -48,3 +48,24 @@ implementation 'com.google.androidgms:play-services-maps:18.2.0'
 1. **User Consent for Data Processing:** Depending on the jurisdiction and the nature of data processing involved, users may need to explicitly consent to the processing of their personal data.
 1. **Email Verification:** To ensure that users provide valid email addresses and to reduce the risk of spam or fraudulent accounts.
 1. **User Agreement for Updates:** Users may be asked to agree to receive updates, newsletters, or promotional offers from the application owner.
+
+## User License
+> Acceptable 
+1. **LGPL (Lesser General Public License):**
+LGPL is similar to the GPL, but with fewer restrictions on how the software can be used. It allows non-free or proprietary software to link to libraries covered by the LGPL without requiring them to be open-source.
+
+2. **MIT License:**
+The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT). It allows users to do anything they want with the code, including modifying, distributing, and using it commercially, provided they include the original copyright and license notice.
+
+3. **Apache:**
+The Apache License is a permissive free software license written by the Apache Software Foundation. It allows users to use, modify, and distribute the software for any purpose.
+
+> Unacceptable
+1. **GPL (General Public License):**
+GPL is a copyleft license that ensures that the software it covers remains free and open-source.
+
+2. **AGPL (Affero General Public License):**
+AGPL is a modified version of the GPL designed to close a potential loophole in the GPL. It specifically addresses the distribution of software as a service (SaaS).
+
+3. **Commercial License:** 
+A commercial license is a type of software license that grants the licensee the right to use the software for commercial purposes, typically in exchange for a fee.
