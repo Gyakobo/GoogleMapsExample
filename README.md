@@ -1,7 +1,6 @@
 # Google Maps Manipulation
 
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![image](https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white)
 ![image](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
 
 Author: [Andrew Gyakobo](https://github.com/Gyakobo)
