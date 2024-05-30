@@ -2,7 +2,7 @@
 
 ![image](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
 
-Author: [Andrew Gyakobo]([http](https://github.com/Gyakobo)
+Author: [Andrew Gyakobo](https://github.com/Gyakobo)
 
 > The following project is built in accordance to the following manual: [website](https://developers.google.com/maps/documentation/android-sdk/start#groovy)
 
